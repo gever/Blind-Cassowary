@@ -27,9 +27,9 @@ It is important to note that there are no "turns" in Blind Cassowary. Play moves
 
 Having formed a valid cassowary, the player will announce "cassowary" and then will show their solution inviting others to confirm their calculations. At this point in play anyone may request that the player explain their solution. If there are no corrections from other players at the table, or from spectators in the vicinity, the other players each draw a card from the reserves, and the player replenishes their hand to maintain a minimum of five cards (until the end-of-game phase begins).
 
-After getting the nod of approval (which, over time, and between players of good character, may become perfunctory), the player lays their solution in their "nest" (alternating ordinal directions between solutions so as to allow easy counting or challenge later). They then replenish their hand with cards from the reserve.
+After getting the nod of approval (which, over time, and between players of good character, may become perfunctory), the player lays their solution in their "nest" (alternating cardinal directions between solutions so as to allow easy counting or challenge later). They then replenish their hand with cards from the reserve.
 
-Note that during play, any player's hand may hold more than five cards due to other players laying cassowary. For example, a player with eight cards in their hand, who lays a two-card cassowary, would not replenish because they still have more (8-2=6) than the minimum card count (50 in their hand.
+Note that during play, any player's hand may hold more than five cards due to other players laying cassowary. For example, a player with eight cards in their hand, who lays a two-card cassowary, would not replenish because they still have more (8-2=6) than the minimum card count (5) in their hand.
 
 Play continues until the reserves are completely depleted, at which point the game is seen to be transitioning into the end-of-game phase. Players may continue to make cassowary even though there are no cards in the reserve to replenish from. When no player can manage to lay a cassowary, all players are considered "stuck."
 
