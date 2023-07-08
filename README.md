@@ -1,6 +1,6 @@
 # Blind Cassowary
 
-"The game that will never take off, and when it does, it won't know where it's going." -[[Sylvia Zoyt]]
+"The game that will never take off, and when it does, it won't know where it's going." -Sylvia Zoyt, Blind Cassowary Cabal
 
 ## The Rules
 
