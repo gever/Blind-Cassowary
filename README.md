@@ -7,7 +7,7 @@
 The deck consists of 52 cards plus two jokers. The jokers are referred to as "chameleons" because they can become any other card that you have in your hand. In notation here, the chameleon is referred to as C, and J is Jack, Q is Queen, K is King.
 
 ### To Start
-1. Deal five cards to each player at the table. Once all players have been dealt their hands, two cards are flipped over to reveal the target - *the digits of the target must be placed in the order they were drawn*. For example, if an 8 and a 5 are drawn, the target is 85 (see the **Special Rules** for how to handle/interpret 10's and face cards in the target). Place the target cards side-by-side near the "reserve" (the undealt cards). As play progresses, players will draw cards as required or needed, so everyone should be able to reach the reserve.
+1. Deal five cards to each player at the table. Place the remainder of the deck face down in the middle - this is the "reserve." Once all players have been dealt their hands, the top two cards of the reserve are flipped over to reveal the target - *the digits of the target must be placed in the order they were drawn*. For example, if an 8 and a 5 are drawn, the target is 85 (see the **Special Rules** for how to handle/interpret 10's and face cards in the target). Place the target cards side-by-side near the "reserve" (the undealt cards). As play progresses, players will draw cards as required or needed, so everyone should be able to reach the reserve.
 2. Play begins once everyone agrees on the target and has had a moment to think about the properties of that particular number - only after this may players look at their hands. Note that hands may be played open or closed (hidden from other players) as individual players desire.
 
 ### Play
